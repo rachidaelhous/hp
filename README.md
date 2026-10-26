@@ -1,26 +1,30 @@
-# Portfolio de Rachida Elhous
+# Portfolio académique — Rachida Elhous
 
-Étudiante en Techniques de l’informatique – Programmation au Collège LaSalle, Montréal. Diplomation prévue en 2027.
+Étudiante au Collège LaSalle, Montréal. DEC en programmation, diplôme prévu en 2027.
 
-## Contenu
+## Projets présentés
 
-- Présentation et objectif de stage en développement logiciel.
-- Compétences étudiées : HTML, CSS, JavaScript, PHP, C#, Java, Python et SQL.
-- Formation et expériences issues de mon CV.
-- Démonstration JavaScript de calcul de réduction avec validation des saisies.
+| Projet | Technologies | Sujet |
+| --- | --- | --- |
+| Gestion de bibliothèque | C#, WinForms, SQL Server | Livres, auteurs, emprunts et retours; architecture DAL/BLL/UI |
+| FAQManager | C#, EF Core, WinForms, LocalDB | Questions-réponses, recherche, catégories et suppression logique |
+| Labo Zmori | HTML, CSS, JavaScript, IndexedDB | Présentation d’un photographe, services, galeries et contact |
+| CountersFactory | Java, POO, sérialisation | Héritage, compteurs et sauvegarde des objets |
 
-## Démarrer
+Les fiches décrivent des travaux académiques abordés pendant la formation. Le code original des quatre applications et leurs captures ne sont pas encore présents dans ce dépôt. Les visuels sont des compositions typographiques, pas des captures d’écran des applications.
 
-Télécharger le dépôt puis ouvrir `index.html` dans un navigateur. Aucune installation ni base de données nécessaire.
+## Ouvrir le portfolio
 
-## Comprendre la démonstration
+Télécharger le dépôt et ouvrir `index.html` dans un navigateur. Aucun outil de compilation nécessaire.
 
-La page récupère un prix et un pourcentage. Elle vérifie que le prix est positif ou nul et que le pourcentage est compris entre 0 et 100. Le prix final est calculé avec `prix * (1 - pourcentage / 100)`, puis affiché au format monétaire canadien.
+## Fonctionnalités du site
 
-Vérifications : 100 $ avec 15 % donne 85 $; 200 $ avec 15 % donne 170 $; 100 $ avec 100 % donne 0 $.
+- Présentation des projets en cartes.
+- Filtres C#, Web et Java.
+- Fiches détaillées repliables.
+- Présentation du parcours et des compétences.
+- Mise en page adaptée aux petits écrans.
 
-## Contexte et limites
+## Technologies du portfolio
 
-Ce portfolio et cette démonstration ont été préparés avec l’aide de ChatGPT. Ce sont des supports de présentation et d’apprentissage, pas des projets professionnels ni la récupération de mes anciens projets de cours. Les anciens projets seront ajoutés lorsqu’ils auront été retrouvés et vérifiés.
-
-Le dépôt est privé pour le moment : un enseignant ou un recruteur ne peut pas le consulter sans accès.
+HTML, CSS et JavaScript. Présentation réalisée avec l’aide de ChatGPT. Le dépôt est actuellement privé; les visiteurs doivent disposer d’un accès.
