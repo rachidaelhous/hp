@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<configuration><appSettings><add key="ManagerPassword" value="CHANGE_ME_MANAGER"/><add key="TechnicianPassword" value="CHANGE_ME_TECHNICIAN"/></appSettings></configuration>

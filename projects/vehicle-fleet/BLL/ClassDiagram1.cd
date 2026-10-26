@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="Vehicle_Fleet_factory.BLL.Vehicle" Collapsed="true">
+    <Position X="3.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AgIAAAAAAAEAAAAEAAAAAAAAAAEBBAAAAEgAEgJKAAI=</HashCode>
+      <FileName>BLL\Vehicle.cs</FileName>
+    </TypeIdentifier>
+    <ShowAsAssociation>
+      <Field Name="model" />
+      <Field Name="madeDate" />
+      <Field Name="vehicleType" />
+      <Property Name="IMileageEfficiency" />
+    </ShowAsAssociation>
+    <Lollipop Position="0.2" />
+  </Class>
+  <Class Name="Vehicle_Fleet_factory.BLL.HybridVehicle" Collapsed="true">
+    <Position X="0.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABEAAAAAAABAAAABQBAAAAAAAAAAAA=</HashCode>
+      <FileName>BLL\HybridVehicle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vehicle_Fleet_factory.BLL.EssenceVehicle" Collapsed="true">
+    <Position X="2.5" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAEAAAAAAABAAAABQAAAAAAAAAAAAA=</HashCode>
+      <FileName>BLL\EssenceVehicle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vehicle_Fleet_factory.BLL.ElectricVehicle" Collapsed="true">
+    <Position X="4.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABEAAAAAAAAAAAABABAAAAAAAAAAAA=</HashCode>
+      <FileName>BLL\ElectricVehicle.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vehicle_Fleet_factory.BLL.Date" Collapsed="true">
+    <Position X="0.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAkAAAAJAAAAAAEAAAAAAAAAAQAAAAEAAAAAAAAAAA=</HashCode>
+      <FileName>BLL\Date.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vehicle_Fleet_factory.BLL.DataCollection" Collapsed="true">
+    <Position X="5.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAAEAAAABAAAQAAABEAAIAAAAAAAACAAAgIgAABAAAA=</HashCode>
+      <FileName>BLL\DataCollection.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Vehicle_Fleet_factory.BLL.FileManager" Collapsed="true">
+    <Position X="5.5" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAkAAACAAAAAAAAAIAAAAAAAAEBAA=</HashCode>
+      <FileName>BLL\FileManager.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Interface Name="Vehicle_Fleet_factory.BLL.IMileageEfficiency">
+    <Position X="6.25" Y="2.75" Width="1.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAA=</HashCode>
+      <FileName>BLL\ImileageEfficiency.cs</FileName>
+    </TypeIdentifier>
+  </Interface>
+  <Enum Name="Vehicle_Fleet_factory.BLL.EnumVehicleType">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAABABAAAAAAAAAAAABAAACA=</HashCode>
+      <FileName>BLL\EnumVehicleType.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Vehicle_Fleet_factory.BLL.EnumModel" Collapsed="true">
+    <Position X="0.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAABIAAAAAACAAIAAACA=</HashCode>
+      <FileName>BLL\EnumModel.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Enum Name="Vehicle_Fleet_factory.BLL.EnumUserMode" Collapsed="true">
+    <Position X="5.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAAAAAACACA=</HashCode>
+      <FileName>BLL\EnumUserMode.cs</FileName>
+    </TypeIdentifier>
+  </Enum>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

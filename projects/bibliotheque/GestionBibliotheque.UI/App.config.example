@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<configuration><connectionStrings><add name="BibliothequeDb" connectionString="Server=localhost;Database=BibliothequeDb;Integrated Security=True;TrustServerCertificate=True" providerName="Microsoft.Data.SqlClient" /></connectionStrings></configuration>

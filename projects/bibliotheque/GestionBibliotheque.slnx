@@ -1,0 +1,6 @@
+<Solution>
+  <Project Path="../../../../../PROJET-FINAL/GestionBibliotheque.BLL/GestionBibliotheque.BLL.csproj" />
+  <Project Path="../../../../../PROJET-FINAL/GestionBibliotheque.DAL/GestionBibliotheque.DAL.csproj" />
+  <Project Path="../../../../../PROJET-FINAL/GestionBibliotheque.Models/GestionBibliotheque.Models.csproj" Id="c4aadf32-e4a0-4cfd-8d04-f010c05ba0f2" />
+  <Project Path="../../../../../PROJET-FINAL/GestionBibliotheque.UI/GestionBibliotheque.UI.csproj" />
+</Solution>

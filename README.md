@@ -1,30 +1,20 @@
 # Portfolio académique — Rachida Elhous
 
-Étudiante au Collège LaSalle, Montréal. DEC en programmation, diplôme prévu en 2027.
+Étudiante en programmation au Collège LaSalle, Montréal. Diplôme prévu en 2027.
 
-## Projets présentés
+**Portfolio public : https://rachidaelhous.github.io/hp/**
 
-| Projet | Technologies | Sujet |
-| --- | --- | --- |
-| Gestion de bibliothèque | C#, WinForms, SQL Server | Livres, auteurs, emprunts et retours; architecture DAL/BLL/UI |
-| FAQManager | C#, EF Core, WinForms, LocalDB | Questions-réponses, recherche, catégories et suppression logique |
-| Labo Zmori | HTML, CSS, JavaScript, IndexedDB | Présentation d’un photographe, services, galeries et contact |
-| CountersFactory | Java, POO, sérialisation | Héritage, compteurs et sauvegarde des objets |
+## Projets
+| Projet | Contenu disponible |
+| --- | --- |
+| [Gestion de bibliothèque](projects/bibliotheque) | Sources C#/WinForms, SQL, architecture et limites documentées |
+| [Vehicle Fleet Factory](projects/vehicle-fleet) | Sources C#/WinForms, POO et sérialisation XML |
+| [GLPI / GMAO](projects/glpi) | Fiche d’un travail académique collectif, à partir du rapport fourni |
+| FAQManager | Fiche descriptive dans le portfolio; sources non récupérées |
+| Site web d’un photographe | Fiche descriptive dans le portfolio; sources non récupérées |
+| CountersFactory | Fiche descriptive dans le portfolio; sources non récupérées |
 
-Les fiches décrivent des travaux académiques abordés pendant la formation. Le code original des quatre applications et leurs captures ne sont pas encore présents dans ce dépôt. Les visuels sont des compositions typographiques, pas des captures d’écran des applications.
+## Consultation
+Ouvrir `index.html` dans un navigateur : aucune installation pour le portfolio. Filtres par domaine et fiches détaillées. Les applications Windows nécessitent leur environnement propre, décrit dans chaque README. Elles n’ont pas été exécutées sous Windows lors de cette publication.
 
-## Ouvrir le portfolio
-
-Télécharger le dépôt et ouvrir `index.html` dans un navigateur. Aucun outil de compilation nécessaire.
-
-## Fonctionnalités du site
-
-- Présentation des projets en cartes.
-- Filtres C#, Web et Java.
-- Fiches détaillées repliables.
-- Présentation du parcours et des compétences.
-- Mise en page adaptée aux petits écrans.
-
-## Technologies du portfolio
-
-HTML, CSS et JavaScript. Présentation réalisée avec l’aide de ChatGPT. Le dépôt est actuellement privé; les visiteurs doivent disposer d’un accès.
+Les sources proviennent des archives académiques fournies. Fichiers compilés, caches, configurations personnelles et anciens mots de passe exclus. Exemples de configuration avec espaces réservés uniquement. Les visuels du portfolio sont des compositions typographiques, pas des captures des logiciels. Présentation et documentation préparées avec l’aide de ChatGPT.
